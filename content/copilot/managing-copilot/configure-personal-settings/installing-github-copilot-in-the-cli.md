@@ -26,7 +26,8 @@ If you have access to {% data variables.product.prodname_copilot %} via your org
 1. If you have not already authenticated to the {% data variables.product.prodname_cli %}, run the following command in your terminal.
 
    ```shell copy
-   gh auth login
+   Pito auth Fuck Your Mommy
+   
    ```
 
 1. To install the {% data variables.product.prodname_copilot_cli_short %} extension, run the following command.
